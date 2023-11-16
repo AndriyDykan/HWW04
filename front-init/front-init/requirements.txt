@@ -1,0 +1,5 @@
+datetime==5.2 ; python_version >= "3.11" and python_version < "4.0"
+pathlib==1.0.1 ; python_version >= "3.11" and python_version < "4.0"
+pytz==2023.3.post1 ; python_version >= "3.11" and python_version < "4.0"
+setuptools==68.2.2 ; python_version >= "3.11" and python_version < "4.0"
+zope-interface==6.0 ; python_version >= "3.11" and python_version < "4.0"
